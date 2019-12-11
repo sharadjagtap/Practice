@@ -11,3 +11,4 @@ def outer():
     inner()
 outer()
 
+inner()
