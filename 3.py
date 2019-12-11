@@ -6,4 +6,4 @@ def outer():
         return result
     return inner()
 a=outer()
-print(a)
+# print(a)
