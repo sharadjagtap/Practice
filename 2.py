@@ -11,4 +11,4 @@ def outer():
     inner()
 outer()
 
-inner()
+# inner()
